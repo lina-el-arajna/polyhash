@@ -1,18 +1,9 @@
-# Polyhash 2023 - Readme.md
-
-## Projet Polyhash 2023
-### Équipe BIDIA
-- Lina El Arajna
-- Donatien Madjibaye
-- Nino Lalanne-Tisné
-- Ahmed Fakhfakh
+# Polyhash 2023 
 
 ## Introduction
 Le projet Polyhash 2023 vise à résoudre le problème de gestion et de coordination de drones pour la livraison efficace des commandes en ligne. Les drones autonomes, capables de voler et d'éviter le trafic, peuvent être utilisés pour livrer des produits directement aux clients. Cependant, la principale problématique réside dans la gestion et la coordination de ces drones pour optimiser la réalisation des commandes.
 
 ## Description du Projet
-### Tâches/Fonctions du Projet
-Nous avons défini les grandes tâches telles que le Brainstorming, la Modélisation, l'Implémentation, l'Optimisation, le Nettoyage du Code et la Documentation. Chacune de ces grandes tâches a été subdivisée en plusieurs petites tâches, que nous nous sommes réparti.
 
 ### Jeux de données :
 Les points bleus representent les commandes et les points rouges représentent les entrepôts.
@@ -120,7 +111,7 @@ Le fichier polyhash.py est le point d'entrée principal du programme. Il utilise
 Le projet comprend également plusieurs autres classes essentielles, notamment Drone.py, Order.py, Segment.py, Warehouse.py, et Challenge.py. Ces classes définissent les entités clés du problème et sont utilisées dans le processus de résolution.
 
 ## Procédure d'Installation
-1. Clonez le repository depuis : https://gitlab.univ-nantes.fr/E23B933N/polyhash2023.git
+1. Clonez le repository depuis : https://github.com/lina-el-arajna/polyhash.git
 
 1. Assurez-vous d'avoir les dépendances nécessaires installées. Vous pouvez les installer en exécutant la commande suivante dans le répertoire du projet :
 
